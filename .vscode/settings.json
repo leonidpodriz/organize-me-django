@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "/home/leonidpodriz/.local/share/virtualenvs/organize-me-django-voCwMjZL/bin/python"
+    "python.pythonPath": "/home/leonidpodriz/.local/share/virtualenvs/organize-me-django-voCwMjZL/bin/python",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true
 }
